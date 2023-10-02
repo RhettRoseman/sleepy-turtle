@@ -31,7 +31,8 @@ JavaScript
 ## Links
 [Github Repo](https://rhettroseman.github.io/sleepy-turtle/)
 
-Live URL 
+[Live URL](https://github.com/RhettRoseman/sleepy-turtle) 
 
-##
+## Screenshots 
+
 
