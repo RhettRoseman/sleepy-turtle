@@ -35,4 +35,6 @@ JavaScript
 
 ## Screenshots 
 
+<img width="1792" alt="Screenshot 2023-10-02 at 7 29 41 PM" src="https://github.com/RhettRoseman/sleepy-turtle/assets/140462841/a9f4fa82-c22f-4bc1-b0d8-270df43fdf4f">
+
 
